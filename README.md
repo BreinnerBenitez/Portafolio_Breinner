@@ -4,4 +4,4 @@
 
 ___
 
-![imagen](img/imagen1.JPG)
+![imagen](activos/imagen1.JPG)
